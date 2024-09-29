@@ -2,7 +2,7 @@
 ---
 - 🎞 B站频道：[严同学科技探险](https://space.bilibili.com/242066560)
 - 📝 公众号：[Cloud技术栈](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzAwODg0MDQ3OA==&action=getalbum&album_id=2871687416342953987&scene=173&from_msgid=2247485692&from_itemidx=1&count=3&nolastread=1#wechat_redirect)
-![](https://raw.githubusercontent.com/iCloudBot/iCloudBot/output/github-contribution-grid-snake-dark.svg)
+![](https://raw.githubusercontent.com/iCloudBot/iCloudBot/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <a href="https://skillicons.dev">
